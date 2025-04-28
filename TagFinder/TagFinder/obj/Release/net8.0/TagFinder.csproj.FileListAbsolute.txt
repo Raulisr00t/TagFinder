@@ -1,0 +1,14 @@
+C:\Users\Msi\source\repos\TagFinder\TagFinder\bin\Release\net8.0\TagFinder.exe
+C:\Users\Msi\source\repos\TagFinder\TagFinder\bin\Release\net8.0\TagFinder.deps.json
+C:\Users\Msi\source\repos\TagFinder\TagFinder\bin\Release\net8.0\TagFinder.runtimeconfig.json
+C:\Users\Msi\source\repos\TagFinder\TagFinder\bin\Release\net8.0\TagFinder.dll
+C:\Users\Msi\source\repos\TagFinder\TagFinder\bin\Release\net8.0\TagFinder.pdb
+C:\Users\Msi\source\repos\TagFinder\TagFinder\obj\Release\net8.0\TagFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Msi\source\repos\TagFinder\TagFinder\obj\Release\net8.0\TagFinder.AssemblyInfoInputs.cache
+C:\Users\Msi\source\repos\TagFinder\TagFinder\obj\Release\net8.0\TagFinder.AssemblyInfo.cs
+C:\Users\Msi\source\repos\TagFinder\TagFinder\obj\Release\net8.0\TagFinder.csproj.CoreCompileInputs.cache
+C:\Users\Msi\source\repos\TagFinder\TagFinder\obj\Release\net8.0\TagFinder.dll
+C:\Users\Msi\source\repos\TagFinder\TagFinder\obj\Release\net8.0\refint\TagFinder.dll
+C:\Users\Msi\source\repos\TagFinder\TagFinder\obj\Release\net8.0\TagFinder.pdb
+C:\Users\Msi\source\repos\TagFinder\TagFinder\obj\Release\net8.0\TagFinder.genruntimeconfig.cache
+C:\Users\Msi\source\repos\TagFinder\TagFinder\obj\Release\net8.0\ref\TagFinder.dll
