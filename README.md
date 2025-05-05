@@ -1,6 +1,6 @@
 # 📑TagFinder
 
-TagFinder is a lightweight C# console application that scrapes and extracts specific HTML tags (such as <a>, <img>, <div>, etc.) from a website provided by the user.
+TagFinder is a lightweight C# GUI and console application that scrapes and extracts specific HTML tags (such as <a>, <img>, <div>, etc.) from a website provided by the user.
 
 ## 🚀 Features
 User inputs a website URL and an HTML tag.
