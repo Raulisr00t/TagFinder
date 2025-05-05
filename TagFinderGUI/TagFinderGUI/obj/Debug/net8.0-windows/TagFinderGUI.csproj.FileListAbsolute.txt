@@ -1,0 +1,16 @@
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\obj\Debug\net8.0-windows\TagFinderGUI.Form1.resources
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\obj\Debug\net8.0-windows\TagFinderGUI.csproj.GenerateResource.cache
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\obj\Debug\net8.0-windows\TagFinderGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\obj\Debug\net8.0-windows\TagFinderGUI.AssemblyInfoInputs.cache
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\obj\Debug\net8.0-windows\TagFinderGUI.AssemblyInfo.cs
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\obj\Debug\net8.0-windows\TagFinderGUI.csproj.CoreCompileInputs.cache
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\bin\Debug\net8.0-windows\TagFinderGUI.exe
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\bin\Debug\net8.0-windows\TagFinderGUI.deps.json
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\bin\Debug\net8.0-windows\TagFinderGUI.runtimeconfig.json
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\bin\Debug\net8.0-windows\TagFinderGUI.dll
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\bin\Debug\net8.0-windows\TagFinderGUI.pdb
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\obj\Debug\net8.0-windows\TagFinderGUI.dll
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\obj\Debug\net8.0-windows\refint\TagFinderGUI.dll
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\obj\Debug\net8.0-windows\TagFinderGUI.pdb
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\obj\Debug\net8.0-windows\TagFinderGUI.genruntimeconfig.cache
+C:\Users\Msi\source\repos\TagFinderGUI\TagFinderGUI\obj\Debug\net8.0-windows\ref\TagFinderGUI.dll
